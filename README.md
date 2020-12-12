@@ -1,2 +1,2 @@
 # Python
-This file contains Python questions from school(LAB and TUTORIALS)
+This file contains Python questions (LAB and TUTORIALS) from school
