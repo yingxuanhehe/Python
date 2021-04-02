@@ -1,2 +1,6 @@
 # Python
-Contains Python language questions (LAB and TUTORIALS), Data Science Exercises from school
+## Year 1 Sem 1
+- Contains basic Python codes from "Introduction to Computational Thinking"
+
+## Data Science
+- Exercises done in lab sessions
